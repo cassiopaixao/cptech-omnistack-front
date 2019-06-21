@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/cptech-omnistack-front/precache-manifest.0745a2af059a7ae777baf79305ce1368.js"
+  "/cptech-omnistack-front/precache-manifest.d54cd5ef315ca4c95b3947fa374da8fc.js"
 );
 
 self.addEventListener('message', (event) => {

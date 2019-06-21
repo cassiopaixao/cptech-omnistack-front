@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/cptech-omnistack-front/static/css/main.5e08d228.chunk.css",
-    "main.js": "/cptech-omnistack-front/static/js/main.7b694cc7.chunk.js",
-    "main.js.map": "/cptech-omnistack-front/static/js/main.7b694cc7.chunk.js.map",
+    "main.js": "/cptech-omnistack-front/static/js/main.dad5c439.chunk.js",
+    "main.js.map": "/cptech-omnistack-front/static/js/main.dad5c439.chunk.js.map",
     "runtime~main.js": "/cptech-omnistack-front/static/js/runtime~main.8bf21dbc.js",
     "runtime~main.js.map": "/cptech-omnistack-front/static/js/runtime~main.8bf21dbc.js.map",
     "static/js/2.1c3c2587.chunk.js": "/cptech-omnistack-front/static/js/2.1c3c2587.chunk.js",
     "static/js/2.1c3c2587.chunk.js.map": "/cptech-omnistack-front/static/js/2.1c3c2587.chunk.js.map",
     "index.html": "/cptech-omnistack-front/index.html",
-    "precache-manifest.0745a2af059a7ae777baf79305ce1368.js": "/cptech-omnistack-front/precache-manifest.0745a2af059a7ae777baf79305ce1368.js",
+    "precache-manifest.d54cd5ef315ca4c95b3947fa374da8fc.js": "/cptech-omnistack-front/precache-manifest.d54cd5ef315ca4c95b3947fa374da8fc.js",
     "service-worker.js": "/cptech-omnistack-front/service-worker.js",
     "static/css/main.5e08d228.chunk.css.map": "/cptech-omnistack-front/static/css/main.5e08d228.chunk.css.map",
     "static/media/camera.svg": "/cptech-omnistack-front/static/media/camera.787c6af9.svg",
